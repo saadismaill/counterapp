@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: lightgray;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  box-sizing: border-box;
+  margin-top: 200px;
+}
+
+button {
+  background-color: yellowgreen;
+  color: black;
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-radius: 200px;
+  cursor: pointer;
+  box-shadow: 8px 5px 5px black;
+}
+
+#btn1 {
+  background-color: yellowgreen;
+  color: black;
+  font-size: 50px;
+}
+#btn2 {
+  background-color: yellowgreen;
+  color: black;
+  font-size: 50px;
+}
+
+footer {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: aliceblue;
+  margin-top: 449px;
+}
